@@ -1,4 +1,4 @@
-# Hi, I am Moises Adame!!!
+# Moises Adame!!!
 - 🙋🏼‍♂️ @MoisesAdame
 - 👀 C++, Python & Maths.
 - 💙 ITESM
