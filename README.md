@@ -8,5 +8,8 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoisesAdame&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoisesAdame&layout=compact&langs_count=8&theme=dracula"/>
+  
+<p align="right">
+<img height="18em" src="https://komarev.com/ghpvc/?username=MoisesAdame&style=flat-square"/>
 
 </div>
